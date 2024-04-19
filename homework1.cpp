@@ -1,5 +1,6 @@
 #include <iostream>
-
+//change for commit
+int f();
 int main() {
 	int numCount = 0;
 
