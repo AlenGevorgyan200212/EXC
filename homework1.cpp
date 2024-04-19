@@ -1,6 +1,5 @@
 #include <iostream>
 
-int foo();
 int main() {
 	int numCount = 0;
 
